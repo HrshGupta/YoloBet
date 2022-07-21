@@ -22870,11 +22870,11 @@ MonoBehaviour:
     poolAmount: 3
     probability: 20
     characterReferences:
-    - m_AssetGUID: 5233cc42ac0db0640b6fe48f014bab91
+    - m_AssetGUID: 01032d506101b5b4fa57624b18fdc085
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
-    - m_AssetGUID: e9170657e2112b542972ec8960083cd1
+    - m_AssetGUID: b218e811d6fb42245a6840d74c07931d
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0

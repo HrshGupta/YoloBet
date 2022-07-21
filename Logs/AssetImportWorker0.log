@@ -1,0 +1,715 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.20f1 (41c4e627c95f) revision 4310246'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 22000.795; Version 2009; 64bit' Language: 'en' Physical Memory: 15720 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/NMS Games Pvt Lim/Yolobet/UltraMonster_Development
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63436
+Successfully changed project path to: D:/NMS Games Pvt Lim/Yolobet/UltraMonster_Development
+D:/NMS Games Pvt Lim/Yolobet/UltraMonster_Development
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 116.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.20f1 (41c4e627c95f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/NMS Games Pvt Lim/Yolobet/UltraMonster_Development/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   
+    VRAM:     3991 MB
+    Driver:   31.0.15.1659
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56408
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002726 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 124.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.510 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3511ms)
+		BeginReloadAssembly (81ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (633ms)
+			LoadAssemblies (77ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (205ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (292ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (124ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (112ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005352 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 133.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.833 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1834ms)
+		BeginReloadAssembly (200ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (1550ms)
+			LoadAssemblies (142ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (470ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (116ms)
+			SetupLoadedEditorAssemblies (670ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (134ms)
+				BeforeProcessingInitializeOnLoad (131ms)
+				ProcessInitializeOnLoadAttributes (370ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3929 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 243.7 MB.
+System memory in use after: 243.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 4380.
+Total: 4.186500 ms (FindLiveObjects: 0.365500 ms CreateObjectMapping: 0.251800 ms MarkObjects: 3.432900 ms  DeleteObjects: 0.135200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Final Mermaid/Mermaid 2.prefab
+  artifactKey: Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 2.prefab using Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b52508de0c94f89ddb98bc3cdb769c35') in 0.050710 seconds 
+  Import took 0.057638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Final Mermaid
+  artifactKey: Guid(aae691fdaf50e604e877617842e768ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid using Guid(aae691fdaf50e604e877617842e768ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76b01b6afc68277e383659715f91f274') in 0.002165 seconds 
+  Import took 0.008334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Final Mermaid/mermaid 1.prefab
+  artifactKey: Guid(ed877bd887e3e144b84a89e55d61b82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/mermaid 1.prefab using Guid(ed877bd887e3e144b84a89e55d61b82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba6bc084327d405ff519bb8a74cc521') in 0.401662 seconds 
+  Import took 0.407761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/Final Mermaid/Mermaid 3 .prefab
+  artifactKey: Guid(b218e811d6fb42245a6840d74c07931d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 3 .prefab using Guid(b218e811d6fb42245a6840d74c07931d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301682c828637df8a75cc13d215d4063') in 0.075770 seconds 
+  Import took 0.083206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.184789 seconds.
+  path: Assets/Final Mermaid/Mermaid 2.prefab
+  artifactKey: Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 2.prefab using Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8307a8f40eb5bd6656457fa65c27ee5e') in 0.006898 seconds 
+  Import took 0.016336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.965321 seconds.
+  path: Assets/Final Mermaid/Mermaid 2.prefab
+  artifactKey: Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 2.prefab using Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289a8ffd110f5c946483fae2581832dc') in 0.008573 seconds 
+  Import took 0.017022 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006467 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.957 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1958ms)
+		BeginReloadAssembly (223ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (65ms)
+		EndReloadAssembly (1631ms)
+			LoadAssemblies (161ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (533ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (102ms)
+			SetupLoadedEditorAssemblies (523ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (130ms)
+				ProcessInitializeOnLoadAttributes (353ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (70ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 249.6 MB.
+System memory in use after: 249.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 4430.
+Total: 6.063200 ms (FindLiveObjects: 0.512900 ms CreateObjectMapping: 0.213000 ms MarkObjects: 5.257100 ms  DeleteObjects: 0.075700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 158.327566 seconds.
+  path: Assets/Final Mermaid/mermaid  3 Unity vfx fbx.fbx
+  artifactKey: Guid(67fba6bc014299b408146fb08de874f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/mermaid  3 Unity vfx fbx.fbx using Guid(67fba6bc014299b408146fb08de874f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '007bd857d84e8e8320d5e7f68727a258') in 0.397343 seconds 
+  Import took 0.408128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.240007 seconds.
+  path: Assets/Final Mermaid/mermaid 1.fbx
+  artifactKey: Guid(0679d9307ba150847b4602fcece87149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/mermaid 1.fbx using Guid(0679d9307ba150847b4602fcece87149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c08ef1009658ecf9f3bdc5dc5018577') in 0.285882 seconds 
+  Import took 0.295042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.144352 seconds.
+  path: Assets/Final Mermaid/mermaid  3 Unity vfx fbx 1.fbx
+  artifactKey: Guid(52256015c588ad9448acd640b8cc626a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/mermaid  3 Unity vfx fbx 1.fbx using Guid(52256015c588ad9448acd640b8cc626a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a54049e6a29f3e5c6718f446754e902e') in 0.086031 seconds 
+  Import took 0.096081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.211877 seconds.
+  path: Assets/Final Mermaid/mermaid  3 Unity vfx fbx.controller
+  artifactKey: Guid(36d397ea8083fb945861c288b55ab457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/mermaid  3 Unity vfx fbx.controller using Guid(36d397ea8083fb945861c288b55ab457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6cc5d0267a269d545e87808e61cdd9b') in 0.009338 seconds 
+  Import took 0.040063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.297516 seconds.
+  path: Assets/Final Mermaid/Mermaid 3 .prefab
+  artifactKey: Guid(b218e811d6fb42245a6840d74c07931d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 3 .prefab using Guid(b218e811d6fb42245a6840d74c07931d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c010f90c4d35faceed3ad49a8fd39707') in 0.110122 seconds 
+  Import took 0.120120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.667264 seconds.
+  path: Assets/Final Mermaid/mermaid 1.prefab
+  artifactKey: Guid(ed877bd887e3e144b84a89e55d61b82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/mermaid 1.prefab using Guid(ed877bd887e3e144b84a89e55d61b82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4a075a20829092c7e1b5ad4af66a7e5') in 0.176387 seconds 
+  Import took 0.186508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.870316 seconds.
+  path: Assets/Final Mermaid/Mermaid 2.prefab
+  artifactKey: Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 2.prefab using Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e2759416a14585f7c188551a152be0') in 0.009084 seconds 
+  Import took 0.017895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.327617 seconds.
+  path: Assets/Final Mermaid/Mermaid 2.prefab
+  artifactKey: Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 2.prefab using Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd54010f160c32c5401ed5f30904a82d2') in 0.008596 seconds 
+  Import took 0.018659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.957961 seconds.
+  path: Assets/Final Mermaid/pink mermaid.controller
+  artifactKey: Guid(7bbfb60d29eca7a47afae5349f5e7079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/pink mermaid.controller using Guid(7bbfb60d29eca7a47afae5349f5e7079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35aa88e0a5b9032758f5143cf542f62a') in 0.004014 seconds 
+  Import took 0.031557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.959759 seconds.
+  path: Assets/Final Mermaid/mermaid 2.controller
+  artifactKey: Guid(7bbfb60d29eca7a47afae5349f5e7079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/mermaid 2.controller using Guid(7bbfb60d29eca7a47afae5349f5e7079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23ae0efe88cab7e9c10b63603f3befe4') in 0.005529 seconds 
+  Import took 0.014559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.123545 seconds.
+  path: Assets/Final Mermaid/Pink mermaid .fbx
+  artifactKey: Guid(14578ac58a1ea4e418b974886312156b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Pink mermaid .fbx using Guid(14578ac58a1ea4e418b974886312156b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e4ab9a2c0d6abb7f83ce4a8a531b35') in 0.053257 seconds 
+  Import took 0.064197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.780819 seconds.
+  path: Assets/Final Mermaid/Mermaid 3.shadergraph
+  artifactKey: Guid(da109ad4a423e6d45babb5edcb53e546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 3.shadergraph using Guid(da109ad4a423e6d45babb5edcb53e546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2712884e4db1a1a003ee91ad23ecdb04') in 0.010096 seconds 
+  Import took 0.020354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.169973 seconds.
+  path: Assets/Final Mermaid/Pink mermaid  1.fbx
+  artifactKey: Guid(2d57f4f4c6bc8ca4fa0889e60de9a736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Pink mermaid  1.fbx using Guid(2d57f4f4c6bc8ca4fa0889e60de9a736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd370f1c04aa2aefb7fa782ae2cc54059') in 0.057657 seconds 
+  Import took 0.066992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 224.812446 seconds.
+  path: Assets/Final Mermaid/Mermaid 2.prefab
+  artifactKey: Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 2.prefab using Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3508cab9eefc8fc4e1d42e7ac40cf08') in 0.008177 seconds 
+  Import took 0.016755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.966147 seconds.
+  path: Assets/Final Mermaid/Mermaid 2.prefab
+  artifactKey: Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 2.prefab using Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6a4144edca3c87f899e3b4f6ade5b4') in 0.007638 seconds 
+  Import took 0.018798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 298.404974 seconds.
+  path: Assets/Final Mermaid/mermaid 1 Variant.prefab
+  artifactKey: Guid(4de55052c6a9e514980840932587d06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/mermaid 1 Variant.prefab using Guid(4de55052c6a9e514980840932587d06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e71dd51dd309d06bdea2617c0ae403b') in 0.006732 seconds 
+  Import took 0.020175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Final Mermaid/Mermaid 3  Variant.prefab
+  artifactKey: Guid(0f2d60ec18f29ac498bf9fbf5fe7313d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 3  Variant.prefab using Guid(0f2d60ec18f29ac498bf9fbf5fe7313d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ff15868978f448fd363f954fc4496a5') in 0.007123 seconds 
+  Import took 0.014611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Final Mermaid/Mermaid 2 Variant.prefab
+  artifactKey: Guid(83229c83d5f52aa488fdb5b9f357a156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 2 Variant.prefab using Guid(83229c83d5f52aa488fdb5b9f357a156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89247cfd2be5ca688654dc96854da28') in 0.006606 seconds 
+  Import took 0.015627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 403.939037 seconds.
+  path: Assets/Final Mermaid/Mermaid 2.prefab
+  artifactKey: Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 2.prefab using Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700e9255e03d89c51638ebc535d075c2') in 0.008521 seconds 
+  Import took 0.019088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.679008 seconds.
+  path: Assets/Final Mermaid/Mermaid 3 .prefab
+  artifactKey: Guid(b218e811d6fb42245a6840d74c07931d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Mermaid/Mermaid 3 .prefab using Guid(b218e811d6fb42245a6840d74c07931d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '584218132d18e3d12ba9d27db63a43b8') in 0.096362 seconds 
+  Import took 0.104088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 286.616193 seconds.
+  path: Assets/mermaid folder
+  artifactKey: Guid(a14df7b1ba891f34791e445ce345e0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder using Guid(a14df7b1ba891f34791e445ce345e0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ebfb8f50d6740753ea2ba2cd9915715') in 0.002887 seconds 
+  Import took 0.030878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.005680 seconds.
+  path: Assets/mermaid folder/Final Mermaid
+  artifactKey: Guid(4e0742a2ccb14b140bd2b7453b89ea4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Final Mermaid using Guid(4e0742a2ccb14b140bd2b7453b89ea4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40cf011a952eec684e363ffeb62507bf') in 0.002217 seconds 
+  Import took 0.010504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.149364 seconds.
+  path: Assets/mermaid folder/Final Mermaid/mermaid 1.prefab
+  artifactKey: Guid(ed877bd887e3e144b84a89e55d61b82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Final Mermaid/mermaid 1.prefab using Guid(ed877bd887e3e144b84a89e55d61b82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aff7450722970107c3f9ce9f906c094') in 0.138673 seconds 
+  Import took 0.147852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/mermaid folder/Final Mermaid/Mermaid 2.prefab
+  artifactKey: Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Final Mermaid/Mermaid 2.prefab using Guid(01032d506101b5b4fa57624b18fdc085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b1db1dbf8e49bb508de41f0d626f2e3') in 0.033764 seconds 
+  Import took 0.043149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.269527 seconds.
+  path: Assets/mermaid folder/Mermaid 1/asd_diffuseOriginal.png
+  artifactKey: Guid(d643c00930f582a44972ce716ba817b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermaid 1/asd_diffuseOriginal.png using Guid(d643c00930f582a44972ce716ba817b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de83f9f91b8e5da1ba4f3acce7bd8d3') in 0.087901 seconds 
+  Import took 0.096940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/mermaid folder/Mermaid 1/vfx2.vfx
+  artifactKey: Guid(b3c2c1186727e744a97d80524cdec4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermaid 1/vfx2.vfx using Guid(b3c2c1186727e744a97d80524cdec4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efea6f27f6075e5ddc4db3db2e56dfc0') in 0.009316 seconds 
+  Import took 0.016423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/mermaid folder/Mermaid 1/vfx.prefab
+  artifactKey: Guid(0f9c69833960db34a9eb90f277514584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermaid 1/vfx.prefab using Guid(0f9c69833960db34a9eb90f277514584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e4fe895298ea24aa2bb3cca6fbc5269') in 0.018072 seconds 
+  Import took 0.027196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/mermaid folder/Mermaid 1/asd_metallic.png
+  artifactKey: Guid(c96604bc278add14bafc83efa7fc7b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermaid 1/asd_metallic.png using Guid(c96604bc278add14bafc83efa7fc7b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f50ccd150c71d0676da7c127665c422c') in 0.076484 seconds 
+  Import took 0.085607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/mermaid folder/Mermaid 1/asd_normal.png
+  artifactKey: Guid(d7086cabae9757b41a4ec0d6d3946d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermaid 1/asd_normal.png using Guid(d7086cabae9757b41a4ec0d6d3946d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2259e86b79d11e659da1e55414a369') in 0.083638 seconds 
+  Import took 0.091513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/mermaid folder/Mermaid 1/Standardmaterial_18.mat
+  artifactKey: Guid(4249eaf3586bad44e80eb28f08eaa96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermaid 1/Standardmaterial_18.mat using Guid(4249eaf3586bad44e80eb28f08eaa96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc9e14e12965ca0f460edc80f61db4f2') in 0.154205 seconds 
+  Import took 0.162885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/mermaid folder/Mermaid 1/mermaid 1.fbx
+  artifactKey: Guid(e6d2b4c64df412d41a288337ba9412c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermaid 1/mermaid 1.fbx using Guid(e6d2b4c64df412d41a288337ba9412c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b60cc72cb9dbde9ef45aeb925f4139c') in 0.209911 seconds 
+  Import took 0.218414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.234072 seconds.
+  path: Assets/mermaid folder/Mermaid 3/Blue 3 VFX.mat
+  artifactKey: Guid(11e8a8133dcd9264585835ecf26df025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermaid 3/Blue 3 VFX.mat using Guid(11e8a8133dcd9264585835ecf26df025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5f03b2f5be27c394cadb10fb2716a2') in 0.074935 seconds 
+  Import took 0.085234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/mermaid folder/Mermaid 3/mermaid  3 Unity vfx fbx.fbx
+  artifactKey: Guid(d13bc9b759d1aa0408bf7dd9d1892a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermaid 3/mermaid  3 Unity vfx fbx.fbx using Guid(d13bc9b759d1aa0408bf7dd9d1892a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a289228e094562ade1c4c1ccf2f943bb') in 0.155655 seconds 
+  Import took 0.163908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/mermaid folder/Mermaid 3/New VFX.vfx
+  artifactKey: Guid(8801543d31d84764e906554e848ce642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermaid 3/New VFX.vfx using Guid(8801543d31d84764e906554e848ce642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2ff9cfabdc2d01239cfb9a783b174de') in 0.005663 seconds 
+  Import took 0.013555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/mermaid folder/Mermaid 3/vfx.vfx
+  artifactKey: Guid(e0a443a31b306954fa1c5793321fe39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermaid 3/vfx.vfx using Guid(e0a443a31b306954fa1c5793321fe39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4521be449493e7b5cf004b15e055f85e') in 0.006478 seconds 
+  Import took 0.015012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.039958 seconds.
+  path: Assets/mermaid folder/Mermiad 2/mermaidVFX.vfx
+  artifactKey: Guid(2e2631e04ef76084f8f116b545f95abd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermiad 2/mermaidVFX.vfx using Guid(2e2631e04ef76084f8f116b545f95abd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6f0c7d200b341f5b37f0f8ab929158d') in 0.003967 seconds 
+  Import took 0.010709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/mermaid folder/Mermiad 2/Pink vfx.vfx
+  artifactKey: Guid(0d73182c0d5a1804fb41ec579e2f28a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermiad 2/Pink vfx.vfx using Guid(0d73182c0d5a1804fb41ec579e2f28a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e29b614dcdfeec3b3c99afc6b582ed') in 0.003757 seconds 
+  Import took 0.010802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/mermaid folder/Mermiad 2/Pink mermaid .fbx
+  artifactKey: Guid(08e6eab02d55d8e42878e125e506be71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermiad 2/Pink mermaid .fbx using Guid(08e6eab02d55d8e42878e125e506be71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f53d4f6848ddc884b832ba987f64a0') in 0.053304 seconds 
+  Import took 0.061719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/mermaid folder/Mermiad 2/Pink mermaidmaid 3.mat
+  artifactKey: Guid(f7cdf10a106682b44b40d32677186e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermiad 2/Pink mermaidmaid 3.mat using Guid(f7cdf10a106682b44b40d32677186e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57545c467e6d02088f372ac83af315b3') in 0.016836 seconds 
+  Import took 0.024667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/mermaid folder/Mermiad 2/vfx.prefab
+  artifactKey: Guid(2704e2d2c14ac9546af82111deffef2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mermaid folder/Mermiad 2/vfx.prefab using Guid(2704e2d2c14ac9546af82111deffef2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73968ba0dadeafd71fac6defde8930d0') in 0.034608 seconds 
+  Import took 0.042430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.968555 seconds.
+  path: Assets/Scenes/HomeScene.unity
+  artifactKey: Guid(dcc93b32b2bcb244ab610362a062bafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/HomeScene.unity using Guid(dcc93b32b2bcb244ab610362a062bafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03ea84deefb6a22ec5e4097847eb7233') in 0.003100 seconds 
+  Import took 0.010818 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006481 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.630 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1631ms)
+		BeginReloadAssembly (162ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (56ms)
+		EndReloadAssembly (1383ms)
+			LoadAssemblies (129ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (457ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (86ms)
+			SetupLoadedEditorAssemblies (433ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (112ms)
+				ProcessInitializeOnLoadAttributes (287ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (55ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 251.0 MB.
+System memory in use after: 251.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 4506.
+Total: 5.734600 ms (FindLiveObjects: 0.510800 ms CreateObjectMapping: 0.241100 ms MarkObjects: 4.889700 ms  DeleteObjects: 0.091200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 237.680113 seconds.
+  path: Assets/Scenes/Test 1.unity
+  artifactKey: Guid(1bbe531d580e4d44ca918ccaa1cf1fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test 1.unity using Guid(1bbe531d580e4d44ca918ccaa1cf1fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992812992e63067457307e071118262d') in 0.032600 seconds 
+  Import took 0.043569 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004083 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Domain Reload Profiling:
+	ReloadAssembly (987ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (835ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (265ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (267ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (68ms)
+				ProcessInitializeOnLoadAttributes (171ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (37ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 251.0 MB.
+System memory in use after: 251.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4509.
+Total: 3.847700 ms (FindLiveObjects: 0.464300 ms CreateObjectMapping: 0.136200 ms MarkObjects: 3.223800 ms  DeleteObjects: 0.022300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.1 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4509.
+Total: 4.445500 ms (FindLiveObjects: 0.453300 ms CreateObjectMapping: 0.104100 ms MarkObjects: 3.860000 ms  DeleteObjects: 0.027200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

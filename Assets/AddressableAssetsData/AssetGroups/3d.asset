@@ -65,8 +65,8 @@ MonoBehaviour:
     m_Address: Assets/Resources_moved/prefab/SharkOrange.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 1f2886dba25e2a54f86a628c074116f7
-    m_Address: Assets/Resources_moved/prefab/Dragon.prefab
+  - m_GUID: ed877bd887e3e144b84a89e55d61b82a
+    m_Address: Assets/mermaid folder/Final Mermaid/mermaid 1.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 8eaeec44892ec3344ac39acd20152364
@@ -99,6 +99,14 @@ MonoBehaviour:
     m_SerializedLabels: []
   - m_GUID: 350b2cb23a588204b952869a4ceaba25
     m_Address: Assets/Resources_moved/prefab/Group/Tropical4Group.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01032d506101b5b4fa57624b18fdc085
+    m_Address: Assets/mermaid folder/Final Mermaid/Mermaid 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b218e811d6fb42245a6840d74c07931d
+    m_Address: Assets/mermaid folder/Final Mermaid/Mermaid 3 .prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0

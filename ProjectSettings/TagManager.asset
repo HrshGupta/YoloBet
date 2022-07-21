@@ -3,7 +3,43 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Border
+  - Bullet
+  - Path
+  - TropicalFish
+  - Turtle
+  - Dragon
+  - Shark
+  - RayFish
+  - Mermaid
+  - Group
+  - BotBullet
+  - PlayerCannon
+  - MainCanvas
+  - Crab
+  - Ant
+  - Bee
+  - Butterfly
+  - Caterpiller
+  - Grasshoper
+  - Ladybug
+  - Spider
+  - Scorpion
+  - Beatless
+  - Wizard
+  - Panda
+  - Crocodile
+  - AngularFish
+  - Octopus
+  - Phoenix
+  - Seahorse
+  - Whale
+  - Bull
+  - Bubble
+  - SpikeFish
+  - Dolphin
+  - Dianasure
   layers:
   - Default
   - TransparentFX
@@ -11,11 +47,11 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Fish
+  - Effect
+  - UIParticle
+  - Ripple
+  - NoPost
   - 
   - 
   - 
